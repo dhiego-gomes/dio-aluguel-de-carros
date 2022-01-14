@@ -14,9 +14,9 @@ Nesse projeto utilizei os principais pilares da POO:
 - Polimorfismo
 - Abstração
 
-Esse projeto simula um sistema de angência que aluga carros.
+Esse projeto simula um sistema de agência que aluga carros.
 
-Ao exucutar o projeto, é possível:
+Ao executar o projeto, é possível:
 - Inserir carros
 - Ver informações dos carros
 - Atualizar informações
