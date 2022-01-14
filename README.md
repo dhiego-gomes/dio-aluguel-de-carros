@@ -21,6 +21,6 @@ Ao executar o projeto, é possível:
 - Ver informações dos carros
 - Atualizar informações
 - Excluir o registro do carro
-- Alugar um carro
+- Alugar e devolver um carro
 
 Tudo isso usando o terminal com os dados salvos em memória.
