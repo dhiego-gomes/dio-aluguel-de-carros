@@ -1,0 +1,15 @@
+C:\Users\dhgde\Documents\_DEV\DECOLA-TECH-AVANADE\DESAFIOS\DIO.AluguelDeCarros\bin\Debug\net6.0\DIO.AluguelDeCarros.exe
+C:\Users\dhgde\Documents\_DEV\DECOLA-TECH-AVANADE\DESAFIOS\DIO.AluguelDeCarros\bin\Debug\net6.0\DIO.AluguelDeCarros.deps.json
+C:\Users\dhgde\Documents\_DEV\DECOLA-TECH-AVANADE\DESAFIOS\DIO.AluguelDeCarros\bin\Debug\net6.0\DIO.AluguelDeCarros.runtimeconfig.json
+C:\Users\dhgde\Documents\_DEV\DECOLA-TECH-AVANADE\DESAFIOS\DIO.AluguelDeCarros\bin\Debug\net6.0\DIO.AluguelDeCarros.dll
+C:\Users\dhgde\Documents\_DEV\DECOLA-TECH-AVANADE\DESAFIOS\DIO.AluguelDeCarros\bin\Debug\net6.0\ref\DIO.AluguelDeCarros.dll
+C:\Users\dhgde\Documents\_DEV\DECOLA-TECH-AVANADE\DESAFIOS\DIO.AluguelDeCarros\bin\Debug\net6.0\DIO.AluguelDeCarros.pdb
+C:\Users\dhgde\Documents\_DEV\DECOLA-TECH-AVANADE\DESAFIOS\DIO.AluguelDeCarros\obj\Debug\net6.0\DIO.AluguelDeCarros.csproj.AssemblyReference.cache
+C:\Users\dhgde\Documents\_DEV\DECOLA-TECH-AVANADE\DESAFIOS\DIO.AluguelDeCarros\obj\Debug\net6.0\DIO.AluguelDeCarros.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dhgde\Documents\_DEV\DECOLA-TECH-AVANADE\DESAFIOS\DIO.AluguelDeCarros\obj\Debug\net6.0\DIO.AluguelDeCarros.AssemblyInfoInputs.cache
+C:\Users\dhgde\Documents\_DEV\DECOLA-TECH-AVANADE\DESAFIOS\DIO.AluguelDeCarros\obj\Debug\net6.0\DIO.AluguelDeCarros.AssemblyInfo.cs
+C:\Users\dhgde\Documents\_DEV\DECOLA-TECH-AVANADE\DESAFIOS\DIO.AluguelDeCarros\obj\Debug\net6.0\DIO.AluguelDeCarros.csproj.CoreCompileInputs.cache
+C:\Users\dhgde\Documents\_DEV\DECOLA-TECH-AVANADE\DESAFIOS\DIO.AluguelDeCarros\obj\Debug\net6.0\DIO.AluguelDeCarros.dll
+C:\Users\dhgde\Documents\_DEV\DECOLA-TECH-AVANADE\DESAFIOS\DIO.AluguelDeCarros\obj\Debug\net6.0\ref\DIO.AluguelDeCarros.dll
+C:\Users\dhgde\Documents\_DEV\DECOLA-TECH-AVANADE\DESAFIOS\DIO.AluguelDeCarros\obj\Debug\net6.0\DIO.AluguelDeCarros.pdb
+C:\Users\dhgde\Documents\_DEV\DECOLA-TECH-AVANADE\DESAFIOS\DIO.AluguelDeCarros\obj\Debug\net6.0\DIO.AluguelDeCarros.genruntimeconfig.cache
